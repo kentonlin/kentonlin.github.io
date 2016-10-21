@@ -7,6 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Group based task manager that is geared towards families. </br> My contributions included:</br> Constructed a server connected to MongoDB and MLabs cloud database with Express and Node. </br> Collaborated with other Frontend Developers to design a database that suited the team’s goals. </br>Created server functions in order to pass information to and from the database and server. </br>Designed and built application splash page with HTML, CSS and Bootstrap. 
-
+description: Group based task manager that is geared towards families. You can create groups, add and delete members and assign tasks to either the group or specific members in the group. 
 ---
