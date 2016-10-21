@@ -8,6 +8,10 @@ body {
     overflow-x: hidden;
 }
 
+.devicon {
+  max-width: 5em;
+}
+
 p {
     font-size: 20px;
 }
