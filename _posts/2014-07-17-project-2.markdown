@@ -5,7 +5,6 @@ date: 2014-07-17
 img: Fridge.png
 alt: image-alt
 project-date: April 2014
-client: http://your-fridge.herokuapp.com
-category: Fridge
+title: Fridge
 description: Group based task manager that is geared towards families. You can create groups, add and delete members and assign tasks to either the group or specific members in the group.
 ---

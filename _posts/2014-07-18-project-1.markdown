@@ -5,7 +5,7 @@ date: 2014-07-18
 img: OneCare.png
 alt: image-alt
 project-date: April 2014
-client: http://onecare.herokuapp.com<
-category: OneCare
+client: http://onecare.herokuapp.com
+title: OneCare
 description: OneCare is a unified health care application. Text reminders for refills and daily prescription dosage. Google maps API for nearest pharmacies. Machine Learning algorithm for specialist recommendations based off user inputted symptoms.
 ---

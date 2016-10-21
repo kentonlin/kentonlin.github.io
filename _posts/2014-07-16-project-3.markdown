@@ -5,8 +5,8 @@ date: 2014-07-16
 img: QuoteOftheDay.png
 alt: image-alt
 project-date: April 2014
-client: http://quoteoftheday1.herokuapp.com
-category: QuoteOftheDay
+title: Quote of the Day
+category: http://quoteoftheday1.herokuapp.com
 description: Generate a random quote from an assortment of categories.
 
 ---
