@@ -6,6 +6,6 @@ img: Fridge.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Group based task manager that is geared towards families. You can create groups, add and delete members and assign tasks to either the group or specific members in the group. 
+category: Fridge
+description: Group based task manager that is geared towards families. You can create groups, add and delete members and assign tasks to either the group or specific members in the group.
 ---

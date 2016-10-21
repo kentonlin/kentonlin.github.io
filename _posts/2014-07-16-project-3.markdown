@@ -6,7 +6,7 @@ img: QuoteOftheDay.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Generate a random quote from an assortment of categories. 
+category: QuoteOftheDay
+description: Generate a random quote from an assortment of categories.
 
 ---
