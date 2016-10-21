@@ -5,7 +5,7 @@ date: 2014-07-16
 img: QuoteOftheDay.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: http://quoteoftheday1.herokuapp.com
 category: QuoteOftheDay
 description: Generate a random quote from an assortment of categories.
 
